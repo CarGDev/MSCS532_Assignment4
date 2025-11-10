@@ -1,0 +1,21 @@
+# MSCS532 Assignment 4: Heapsort and Priority Queue Implementation
+# Python Dependencies
+
+# Core functionality uses only Python standard library
+# No external dependencies are required for basic usage
+
+# Optional: For generating performance comparison plots
+matplotlib>=3.5.0
+numpy>=1.21.0
+
+# Optional: For enhanced testing (if desired)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+
+# Optional: For performance profiling (if desired)
+# cProfile (built-in)
+# line_profiler>=4.0.0
+
+# Note: Core functionality works with Python 3.7+ standard library only
+# matplotlib and numpy are only needed for generating visualization plots
+
